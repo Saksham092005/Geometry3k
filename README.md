@@ -127,7 +127,7 @@
     Saksham Kankaria<br>
     Aditya Gupta
   </p>
-
+  <img src="photo.jpg">
   <h2>Per-class Metrics</h2>
   <ul class="metrics">
     <li><strong>Option A:</strong> Precision = 0.0000, Recall = 0.0000, F1 = 0.0000</li>
